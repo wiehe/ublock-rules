@@ -1,0 +1,2 @@
+! hide "Sign in with Google account to …" popup
+stackexchange.com,stackoverflow.com,reddit.com,dropbox.com##div#credential_picker_container:has(iframe[src^="https://accounts.google.com/gsi/iframe/"])
